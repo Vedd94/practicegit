@@ -1,1 +1,1 @@
-## Heyy Practising git commands
+## Heyy, hello Practising git commands
